@@ -1,0 +1,7 @@
+{
+    "bot_token": "<token>",
+    "chat_id": "<id>",
+    "enabled": true,
+    "power_on_message": "We have got a power 💡",
+    "power_off_message": "Electricity just gone off ⭕️"
+}

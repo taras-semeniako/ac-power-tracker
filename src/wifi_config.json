@@ -1,0 +1,6 @@
+{
+    "ssid": "<ssid>",
+    "password": "<password>",
+    "reconnect_attempts": 5,
+    "reconnect_delay": 2
+}
